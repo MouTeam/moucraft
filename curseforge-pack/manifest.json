@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "MouCraft",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "",
   "files": [
     {
@@ -136,6 +136,11 @@
       "required": true
     },
     {
+      "projectID": 471002,
+      "fileID": 6441271,
+      "required": true
+    },
+    {
       "projectID": 228525,
       "fileID": 6618780,
       "required": true
@@ -148,7 +153,7 @@
     {
       "projectID": 256717,
       "fileID": 5623731,
-      "required": true
+      "required": false
     },
     {
       "projectID": 394468,
@@ -196,6 +201,11 @@
       "required": true
     },
     {
+      "projectID": 272515,
+      "fileID": 5850587,
+      "required": true
+    },
+    {
       "projectID": 248787,
       "fileID": 6616291,
       "required": true
@@ -203,7 +213,7 @@
     {
       "projectID": 406463,
       "fileID": 6239407,
-      "required": true
+      "required": false
     },
     {
       "projectID": 686911,
@@ -226,6 +236,11 @@
       "required": true
     },
     {
+      "projectID": 447673,
+      "fileID": 5913377,
+      "required": true
+    },
+    {
       "projectID": 856996,
       "fileID": 5692888,
       "required": true
@@ -238,6 +253,11 @@
     {
       "projectID": 455508,
       "fileID": 6213632,
+      "required": true
+    },
+    {
+      "projectID": 1158094,
+      "fileID": 6533872,
       "required": true
     },
     {
@@ -288,7 +308,7 @@
     {
       "projectID": 663276,
       "fileID": 6227069,
-      "required": true
+      "required": false
     },
     {
       "projectID": 225608,
@@ -408,7 +428,7 @@
     {
       "projectID": 351938,
       "fileID": 5657655,
-      "required": true
+      "required": false
     },
     {
       "projectID": 1226755,
@@ -448,6 +468,11 @@
     {
       "projectID": 869524,
       "fileID": 6616372,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 6091021,
       "required": true
     },
     {
