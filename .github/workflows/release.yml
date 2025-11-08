@@ -1,0 +1,60 @@
+name: Build and Release Modpack
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/dalbitresb12/packwiz:2025-11-02
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare build folders
+        run: mkdir -p build/curseforge build/modrinth
+
+      - name: Define build version
+        id: vars
+        run: |
+          if [[ "${GITHUB_REF_TYPE}" == "tag" ]]; then
+            echo "VERSION=${GITHUB_REF_NAME}" >> $GITHUB_ENV
+          else
+            SHORT_SHA=$(echo "${GITHUB_SHA}" | cut -c1-7)
+            echo "VERSION=main-${SHORT_SHA}" >> $GITHUB_ENV
+          fi
+
+      - name: Build CurseForge Server pack
+        run: |
+          packwiz curseforge export \
+            --output build/curseforge/MouCraft-curseforge-server-${VERSION}.zip \
+            --side server
+
+      - name: Build CurseForge Client pack
+        run: |
+          packwiz curseforge export \
+            --output build/curseforge/MouCraft-curseforge-client-${VERSION}.zip \
+            --side client
+
+      - name: Build Modrinth pack
+        run: |
+          packwiz modrinth export \
+            --output build/modrinth/MouCraft-modrinth-${VERSION}.mrpack
+
+      - name: Create or update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.VERSION }}
+          name: "MouCraft ${{ env.VERSION }}"
+          draft: false
+          prerelease: ${{ github.ref_type != 'tag' }}
+          files: |
+            build/curseforge/MouCraft-curseforge-client-${{ env.VERSION }}.zip
+            build/curseforge/MouCraft-curseforge-server-${{ env.VERSION }}.zip
+            build/modrinth/MouCraft-modrinth-${{ env.VERSION }}.mrpack
