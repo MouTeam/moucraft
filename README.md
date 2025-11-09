@@ -1,5 +1,7 @@
 # MouCraft
 
+[![Build and Release Modpack](https://github.com/MouTeam/moucraft/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/MouTeam/moucraft/actions/workflows/release.yml)
+
 Latest Release: [Release v0.3.0](https://github.com/MouTeam/moucraft/releases/tag/v0.3.0)
 
 ## Available on Modrinth
