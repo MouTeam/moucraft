@@ -51,6 +51,16 @@ hash = "bcba425c2f7a90f737f44ef05070903f5f5d683d69836bca87731b39844e329c"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "4c9abda63d99719987d4a461997f4e627256a23f6e605ebb06bc30752fae0099"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
 metafile = true
@@ -58,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/prometheus-exporter.pw.toml"
 hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
