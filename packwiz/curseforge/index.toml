@@ -6,6 +6,11 @@ hash = "db29d08bcba55226602b55669b5ff21d99642c09758df93267789ce95a34bdca"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "ff5879f6ad48b7a48c391054e26ef4d70b96f7339bff3bec28877e0ab919f998"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "742108414562eb148ff95c653f15731fe793a58e50ae2747017da0cf20c53982"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
@@ -48,4 +58,14 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "e9e5d68773dac69422e179e17750f59ef058cfc8d4dcb7be592256a9285e76da"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "c25bbe6b2e4c86571f2a471b8331dfb3137d6713661a74bb5929072e2576c044"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "c94510d4c108acb21a436bfb3f217a2f3d564361d5c154a6d5ee244d44ff3619"
 metafile = true
