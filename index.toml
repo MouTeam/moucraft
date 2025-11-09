@@ -1,6 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "mods/prometheus-exporter.pw.toml"
-hash = "81d2ed79edbab7578f69e960ef99d1481d321c2807d7c193e336d4d1b5133a8e"
-metafile = true

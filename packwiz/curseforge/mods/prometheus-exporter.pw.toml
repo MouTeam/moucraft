@@ -3,8 +3,8 @@ filename = "Prometheus-Exporter-1.21.1-neoforge-1.2.1.jar"
 side = "server"
 
 [download]
-hash-format = "sha256"
-hash = "3853ddbfeb3e9ce069c8473eb799f6160c0fb63f1efa4e99e55533dbc45ceff6"
+hash-format = "sha1"
+hash = "9942bd40a05c391386c0ff057d78d69a9fc8df15"
 mode = "metadata:curseforge"
 
 [update]

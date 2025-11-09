@@ -30,23 +30,29 @@ jobs:
             echo "VERSION=main-${SHORT_SHA}" >> $GITHUB_ENV
           fi
 
+      # --- CurseForge ---
       - name: Build CurseForge Server pack
+        working-directory: packwiz/curseforge
         run: |
           packwiz curseforge export \
-            --output build/curseforge/MouCraft-curseforge-server-${VERSION}.zip \
+            --output ../../build/curseforge/MouCraft-curseforge-server-${VERSION}.zip \
             --side server
 
       - name: Build CurseForge Client pack
+        working-directory: packwiz/curseforge
         run: |
           packwiz curseforge export \
-            --output build/curseforge/MouCraft-curseforge-client-${VERSION}.zip \
+            --output ../../build/curseforge/MouCraft-curseforge-client-${VERSION}.zip \
             --side client
 
+      # --- Modrinth ---
       - name: Build Modrinth pack
+        working-directory: packwiz/modrinth
         run: |
           packwiz modrinth export \
-            --output build/modrinth/MouCraft-modrinth-${VERSION}.mrpack
+            --output ../../build/modrinth/MouCraft-modrinth-${VERSION}.mrpack
 
+      # --- GitHub Release ---
       - name: Create or update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
