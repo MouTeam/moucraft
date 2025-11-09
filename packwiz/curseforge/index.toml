@@ -104,3 +104,8 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
+metafile = true
