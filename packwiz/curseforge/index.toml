@@ -21,6 +21,11 @@ hash = "bcba425c2f7a90f737f44ef05070903f5f5d683d69836bca87731b39844e329c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
+metafile = true
+
+[[files]]
 file = "mods/prometheus-exporter.pw.toml"
 hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
 metafile = true
