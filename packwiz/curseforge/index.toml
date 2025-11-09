@@ -31,6 +31,16 @@ hash = "742108414562eb148ff95c653f15731fe793a58e50ae2747017da0cf20c53982"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "0042336abc94bae434faa534e9c2e1d1e477d5f984f9f993d92aa856143f3379"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "9389b4311f93eaea1e627ee793137607370e2e782836e03ee6ca49a41cc7b06d"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
@@ -68,4 +78,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "c94510d4c108acb21a436bfb3f217a2f3d564361d5c154a6d5ee244d44ff3619"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
 metafile = true
