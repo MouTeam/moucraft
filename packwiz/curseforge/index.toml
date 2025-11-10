@@ -150,6 +150,11 @@ hash = "9389b4311f93eaea1e627ee793137607370e2e782836e03ee6ca49a41cc7b06d"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "422b58a4e783ce86e439ac77431d6ffd3c95c2ea1b09d11cf40249a039174612"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
 metafile = true
