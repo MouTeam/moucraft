@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "bcba425c2f7a90f737f44ef05070903f5f5d683d69836bca87731b39844e329c"
+hash = "e86f711adff688cf00e7dd8b860e6299b1e08986927099c1bf02faa5cbdbe65f"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "8f857c83c1097e6a0538f71979fb5271f94299a87cbdc68d2a197b57fc101970"
+hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
 metafile = true
 
 [[files]]
