@@ -35,6 +35,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "92cb46fd4666ac728469801913aacb13ae7896f603be290476ebd23f1997f54a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
 metafile = true
@@ -100,6 +105,11 @@ hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
 metafile = true
 
 [[files]]
+file = "mods/gigeresque.pw.toml"
+hash = "29b7e184783ef77517e99d665be2d14332491bea31dfca96c6dbc1f761598e27"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
@@ -117,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "f4cb8f77c11deda2facac225c4cadd3833b80bee6fb4fe92cb1638c66f9f998e"
 metafile = true
 
 [[files]]
