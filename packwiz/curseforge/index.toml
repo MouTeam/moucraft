@@ -230,6 +230,11 @@ hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "a9784f3f5b888c69695fc3c43e148d9f92edf0aef8aa2baf8bcce463b90196fa"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
 metafile = true
@@ -275,6 +280,11 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "5b057c0d7b5cbabe27c6e5275e2c947ad9e0b7c580a0c41da8596669e1ec8953"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
 metafile = true
@@ -312,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b3add10c33e85194dd45be72ea945b9a606abbc063dd437f252ff544f6bbcdec"
 metafile = true
 
 [[files]]

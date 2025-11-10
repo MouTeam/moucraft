@@ -230,6 +230,11 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "35060e4af7f66f5eac84b4b8be30bbe3d7b5e1e6c1c598b129bb8bc33e2d5aaa"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "6f978589d682f22a6a9e62a08964400b8a1649cdf6e2b86c6bc6fe2cb01fd5ba"
 metafile = true
 
 [[files]]
@@ -312,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
 metafile = true
 
 [[files]]
