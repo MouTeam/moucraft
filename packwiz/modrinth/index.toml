@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/iris.properties"
+hash = "fca3720ec82fa4567e45e32cee4746760ae6ab85f502faf0eee9028d2e022c08"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-options.json"
+hash = "91a06a029c227b0aa592fec98880dd4a50f582204ce49f605dabdeb69b19d2c8"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "ad65d85ee3bb4cb3c0604659af124ea289bde8f1c4c05641bace5ef65d60dda8"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ff36336f954851ae6c1210446938aad82ab08be1777e900165b3be39caf622ee"
+hash = "5f70097ac1a9b624b1abfa9defab96e4b75723a3e309e45f29261c8a3634e43f"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
