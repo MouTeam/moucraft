@@ -130,6 +130,11 @@ hash = "a6bc85a166b61149c5d6ef748c5444f4dd782ee3bf134178a8f94aac45fea3ba"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+hash = "faf7e90356578aa58d0025e56cc38b9e62a44071b821ca5335cbe12251aa5e34"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
 metafile = true
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "29fffe2f1d0f656de83ba0731233a20f664dc97d0b89918e609fc0b190a3fab1"
 metafile = true
 
 [[files]]
@@ -155,8 +165,18 @@ hash = "422b58a4e783ce86e439ac77431d6ffd3c95c2ea1b09d11cf40249a039174612"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "185dc7e1464619fb2ad99c634fc327b554b6a1a9484db24ba6ee8640cca129df"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
 
 [[files]]
@@ -272,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
 
 [[files]]
