@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/emotecraft.json"
+hash = "cca45870298122e54d988d7351a6c29f5b1df7ac1fc50062685d0934d6a9b64a"
+
+[[files]]
 file = "config/defaultoptions/extra/config/iris.properties"
 hash = "fca3720ec82fa4567e45e32cee4746760ae6ab85f502faf0eee9028d2e022c08"
 
@@ -17,8 +21,17 @@ file = "config/defaultoptions/options.txt"
 hash = "5f70097ac1a9b624b1abfa9defab96e4b75723a3e309e45f29261c8a3634e43f"
 
 [[files]]
+file = "emotes/Sit.emotecraft"
+hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "db29d08bcba55226602b55669b5ff21d99642c09758df93267789ce95a34bdca"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
 
 [[files]]
@@ -59,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "0f695559cbee2bdda09f2c32095bf7317b9f3c3c7c378a9eb155bc9746fb5d8b"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
 metafile = true
 
 [[files]]
@@ -109,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
 metafile = true
 
 [[files]]
