@@ -50,6 +50,11 @@ hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c6519ffaf804c8774e8c45adfb4c63c8c7dc92eac0d2135e23ac040e5dffba89"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "64a7bbf0eaf41a1b4d0270ec4255554a25ac278f04f0ae9e110050b42464370f"
 metafile = true
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/gigeresque.pw.toml"
 hash = "29f80700ea83224834564a9e3a5c50fda03de5e1ba8cb48d55a8cd39cae82988"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
 
 [[files]]
@@ -262,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
