@@ -30,6 +30,11 @@ hash = "833fe74ca806f98e6d0da2fbc413e229f1328c47b9b65485cfd653235383467c"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fb413ba504cfaae8ab4d96ede3944b8eb15fa4238ae02b4331bdad2549876f2e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -180,6 +185,11 @@ hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -227,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
 
 [[files]]
