@@ -90,6 +90,11 @@ hash = "36fe638633083667b1fd66b53fd1e0d76467dec3a58062fede8207350bd6771d"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "79163e41833369161b34e0d8f734c98bf6a28264c002021c0037802afb0384c8"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
@@ -260,8 +265,18 @@ hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "539ade06248a343e6986c76c4bd88fb3d22517185bb19d768600fe51417a3255"
+metafile = true
+
+[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
 metafile = true
 
 [[files]]
