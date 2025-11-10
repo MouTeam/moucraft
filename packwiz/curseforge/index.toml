@@ -50,6 +50,11 @@ hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "64a7bbf0eaf41a1b4d0270ec4255554a25ac278f04f0ae9e110050b42464370f"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "ff5879f6ad48b7a48c391054e26ef4d70b96f7339bff3bec28877e0ab919f998"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "0f695559cbee2bdda09f2c32095bf7317b9f3c3c7c378a9eb155bc9746fb5d8b"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
 metafile = true
 
 [[files]]
@@ -125,8 +135,18 @@ hash = "afd2f77c1c4750f68f0745e156f6b272d112ce865bdf91490eb9bc8f7c11769e"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
@@ -162,6 +182,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "302695f3a9a8e6aca31d1108da08172b96954f37be26040cce16716f860cd0eb"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "8f857c83c1097e6a0538f71979fb5271f94299a87cbdc68d2a197b57fc101970"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
