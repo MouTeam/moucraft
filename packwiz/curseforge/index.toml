@@ -47,6 +47,11 @@ hash = "3f47b68f174a4719ef9b099ea12732a4cb840be03635e91dd6c24515f4cf6814"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "742108414562eb148ff95c653f15731fe793a58e50ae2747017da0cf20c53982"
 metafile = true
@@ -114,6 +119,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "302695f3a9a8e6aca31d1108da08172b96954f37be26040cce16716f860cd0eb"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui-forge.pw.toml"
+hash = "34f8fd14d4f0369fba4b0750ff10ca2d0138cb80fb689b3572531611a9a7183e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "74537d95785dd2a5b401d8322ec48d54398d267be6cd5199dd43e52435623828"
 metafile = true
 
 [[files]]
