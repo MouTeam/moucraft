@@ -35,6 +35,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "92cb46fd4666ac728469801913aacb13ae7896f603be290476ebd23f1997f54a"
 metafile = true
@@ -75,8 +80,18 @@ hash = "fd8400c730eed14672714c57ce51f76e90caa472c3c3d6148f60a5b0de632f30"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "a850e8ecd6c32480b8369db9823af1ac200e62a8662b43c58ebb740cdac66387"
 metafile = true
 
 [[files]]
@@ -105,6 +120,11 @@ hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "3ff70efee535e927d1543fce5820d84e0525018e55c30c6e9edf6759da9a5fef"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
 metafile = true
@@ -122,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
@@ -200,6 +225,11 @@ hash = "2731180e4a718e4613f11268b93e34915b58faa1233eda439247f9a23f91eaf8"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
 metafile = true
@@ -207,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "97c6f557317561ec4666df0fbbe6043832368cab6ee2de346e48b7579c9a170e"
 metafile = true
 
 [[files]]
@@ -232,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
