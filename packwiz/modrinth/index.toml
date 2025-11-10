@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "ff36336f954851ae6c1210446938aad82ab08be1777e900165b3be39caf622ee"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "833fe74ca806f98e6d0da2fbc413e229f1328c47b9b65485cfd653235383467c"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
 metafile = true
 
 [[files]]
@@ -28,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "36fe638633083667b1fd66b53fd1e0d76467dec3a58062fede8207350bd6771d"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
 
 [[files]]
