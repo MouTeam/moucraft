@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "833fe74ca806f98e6d0da2fbc413e229f1328c47b9b65485cfd653235383467c"
+hash = "bd03ce1d0b3d694bf21becf75bb73ad3b755c9b5787ea7b33febc366663b46f5"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
+hash = "189889bfa0e37af403251ea1c36086f697d04aaad0068aac7de6e5865beb9aa9"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
+hash = "dd80bf6e3f5554eefa5dcaec292e9c33b309d714ea7939bb8128367fe19e7a4b"
 metafile = true
 
 [[files]]

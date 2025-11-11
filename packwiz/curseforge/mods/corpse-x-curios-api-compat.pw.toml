@@ -1,6 +1,7 @@
 name = "Corpse x Curios API Compat"
 filename = "corpsecurioscompat-1.21.1-NeoForge-3.1.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

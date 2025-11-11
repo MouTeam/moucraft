@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "db29d08bcba55226602b55669b5ff21d99642c09758df93267789ce95a34bdca"
+hash = "c268f3bb2a2867e4a58a31729b3103753f62bdaf52c53706e223170f5f52349a"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "ca8704894c16df80ae5213f35332e353b5275d4ef9b59c779d23023fdbd34c94"
+hash = "e7cacafbcd14ad37a28adce541c88f28e5197c0e0a7db7db2667d612115a7382"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "283b72bfdfc930d2d8b7e4d65f6a5313279c43e1316daebc2e78d6a3b3e56edf"
+hash = "189889bfa0e37af403251ea1c36086f697d04aaad0068aac7de6e5865beb9aa9"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5b057c0d7b5cbabe27c6e5275e2c947ad9e0b7c580a0c41da8596669e1ec8953"
+hash = "e579a0d73f6b5fa9e5662734b2ec5bb475e98c11f901bc380a2487f7c5e6391e"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "74462a8ec96862c081ca1860108bf021b29d3a4df7b6797062914586975e24a5"
+hash = "dd80bf6e3f5554eefa5dcaec292e9c33b309d714ea7939bb8128367fe19e7a4b"
 metafile = true
 
 [[files]]
