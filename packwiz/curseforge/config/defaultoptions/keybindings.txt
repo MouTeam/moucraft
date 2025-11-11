@@ -104,6 +104,17 @@ key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add:
 key_key.map_atlases.place_pin:key.keyboard.unknown:
 key_key.map_atlases.increase_slice:key.keyboard.unknown:
 key_key.map_atlases.decrease_slice:key.keyboard.unknown:
+key_key.mekanism.mode:key.keyboard.r:
+key_key.mekanism.head_mode:key.keyboard.keypad.7:
+key_key.mekanism.chest_mode:key.keyboard.g:
+key_key.mekanism.legs_mode:key.keyboard.keypad.8:
+key_key.mekanism.feet_mode:key.keyboard.keypad.9:
+key_key.mekanism.details:key.keyboard.left.shift:
+key_key.mekanism.description:key.keyboard.n:SHIFT
+key_key.mekanism.module_tweaker:key.keyboard.keypad.multiply:
+key_key.mekanism.key_boost:key.keyboard.left.control:
+key_key.mekanism.key_hud:key.keyboard.keypad.divide:
+key_key.mekanismadditions.voice:key.keyboard.unknown:
 key_key.worldeditcui.chunk:key.keyboard.unknown:
 key_key.worldeditcui.clear:key.keyboard.unknown:
 key_key.worldeditcui.toggle:key.keyboard.unknown:

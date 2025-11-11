@@ -10,7 +10,7 @@ hash = "fca3720ec82fa4567e45e32cee4746760ae6ab85f502faf0eee9028d2e022c08"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0f461cf738353d6f3c829eb65ba51f0e21e2ae89813b2f537765394253ab26c3"
+hash = "d2f6fa556907338c3973f10cd3ce75b409597f0a9ec77dd334629f5232379e9b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -306,6 +306,11 @@ hash = "391327768eb073b6c90a75175a290cd9853499711595715ad35c008757293e5c"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "a33f211ef1fd3bad18713b9ba492500c7b494272eaeb8a3778dd7f0e9231c42f"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "fc938f58fda1614b0bd4c88546b4c37c660777600b7b63479f1022f90b16f407"
 metafile = true
@@ -333,6 +338,26 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "a9784f3f5b888c69695fc3c43e148d9f92edf0aef8aa2baf8bcce463b90196fa"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "2581c158a3335ec178acac32452224f0b5ae371001d99bd7757827f470abef50"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "a04147d9f39521c236191f913ac7fd8f177cc3ae073d5cb01be52bcede9acab2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "cf382b0b1ea1f25c133779b6ea340a5953dec3272bfaef17b6b499b4e59cc515"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
 metafile = true
 
 [[files]]
