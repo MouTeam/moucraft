@@ -50,6 +50,11 @@ hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "32220d2f0275dd71f089742921c86c8964186a8d9610434f53f67f2e459c2ef2"
+metafile = true
+
+[[files]]
+file = "mods/banksystem.pw.toml"
+hash = "a6fd562bdb331e472915025fd1cdd4e40aebb84d6141e3e924d63ea789f46a3f"
 metafile = true
 
 [[files]]
@@ -165,6 +175,11 @@ hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "817968b1b93b39c2b3ca0cf8808b53007806f1a740a8331844ca0b456e6b783b"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
 metafile = true
@@ -195,6 +210,11 @@ hash = "185dc7e1464619fb2ad99c634fc327b554b6a1a9484db24ba6ee8640cca129df"
 metafile = true
 
 [[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "0df579e1b483cf7342b51b0367b69263ff37a36691f86c3f0bc5abcd6fbe31f8"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
 metafile = true
@@ -205,6 +225,11 @@ hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "38d33f6100ad8148333520660118b608191ea407641629f471db061bf827d988"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
@@ -212,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "e86f711adff688cf00e7dd8b860e6299b1e08986927099c1bf02faa5cbdbe65f"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "dd617747ecd36e752952071f625876727cac62ae2acc95512c53e6414cbf8b1e"
 metafile = true
 
 [[files]]
@@ -227,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
@@ -352,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "3fff32e2c932ccb3ed59021caf9bce518582e6bec5c623373e3bd031c73639d2"
 metafile = true
 
 [[files]]
