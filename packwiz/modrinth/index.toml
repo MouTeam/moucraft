@@ -25,6 +25,16 @@ file = "emotes/Sit.emotecraft"
 hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "833fe74ca806f98e6d0da2fbc413e229f1328c47b9b65485cfd653235383467c"
 metafile = true
@@ -47,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "92cb46fd4666ac728469801913aacb13ae7896f603be290476ebd23f1997f54a"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "e14620be14ef5e546335a8f865ecaf807af1b23357ef028b597118062cafa9e3"
 metafile = true
 
 [[files]]
@@ -105,6 +120,11 @@ hash = "c7f15ebcab95f04c71940715f09ced4caad2775a91ef34389431f91bc1c7be71"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "e438cfd073519192f12ea88c46faa333be0bc8f99b6d26abb70bbfaae8ad4961"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
@@ -117,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "79163e41833369161b34e0d8f734c98bf6a28264c002021c0037802afb0384c8"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -305,6 +330,11 @@ hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
@@ -327,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
 metafile = true
 
 [[files]]

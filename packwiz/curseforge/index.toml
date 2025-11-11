@@ -25,6 +25,16 @@ file = "emotes/Sit.emotecraft"
 hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "10e2e8e9561612327d3771e665043dcc7313201b326685dc4e1b032f93ecb4e2"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "a15f3ab51e3a138c7ea0ff93513b09d5cda22418ca83a14eb09ab38ca0945c3d"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "db29d08bcba55226602b55669b5ff21d99642c09758df93267789ce95a34bdca"
 metafile = true
@@ -46,7 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "4fb0b3b08d328e3a81b81cc1968ceaccbb3e1cd73f7dfdc54d65f7a2d8c30287"
+hash = "937d795eced4de5ece932706c3de27d9664d8c7d5acc6692169baa763ce6dc24"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "8b5bd3d7e3ffe3751c7828ceeb5aa338c7f92625d86c3bd2893b6007513c71de"
 metafile = true
 
 [[files]]
@@ -105,6 +120,11 @@ hash = "3f47b68f174a4719ef9b099ea12732a4cb840be03635e91dd6c24515f4cf6814"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "ca8704894c16df80ae5213f35332e353b5275d4ef9b59c779d23023fdbd34c94"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
@@ -117,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "45b4d930d47c8996f308c54834f83625f6ca2431da8788cc66db7a26b48374d3"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -300,6 +325,11 @@ hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
@@ -332,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
 
 [[files]]
