@@ -9,12 +9,8 @@ file = "config/defaultoptions/extra/config/iris.properties"
 hash = "fca3720ec82fa4567e45e32cee4746760ae6ab85f502faf0eee9028d2e022c08"
 
 [[files]]
-file = "config/defaultoptions/extra/config/sodium-options.json"
-hash = "91a06a029c227b0aa592fec98880dd4a50f582204ce49f605dabdeb69b19d2c8"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "ad65d85ee3bb4cb3c0604659af124ea289bde8f1c4c05641bace5ef65d60dda8"
+hash = "0f461cf738353d6f3c829eb65ba51f0e21e2ae89813b2f537765394253ab26c3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
