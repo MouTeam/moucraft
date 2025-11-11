@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/butcher.toml"
+hash = "b31b1087caecad27e251314d28a87c8b728a8d5ecd49e36d8f94ebeedf2715fd"
+
+[[files]]
 file = "config/defaultoptions/extra/config/emotecraft.json"
 hash = "cca45870298122e54d988d7351a6c29f5b1df7ac1fc50062685d0934d6a9b64a"
 
 [[files]]
+file = "config/defaultoptions/extra/config/fallingtree.json"
+hash = "01715542e02f3d5278fb18fe7ede092a94ce4f30807157576850ad57f3592151"
+
+[[files]]
 file = "config/defaultoptions/extra/config/iris.properties"
 hash = "fca3720ec82fa4567e45e32cee4746760ae6ab85f502faf0eee9028d2e022c08"
+
+[[files]]
+file = "config/defaultoptions/extra/config/securitycraft-client.toml"
+hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
