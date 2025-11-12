@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "e438cfd073519192f12ea88c46faa333be0bc8f99b6d26abb70bbfaae8ad4961"
+hash = "0dbb09999d85aa27cae3b923827245ad2e9559bb46f69736dde8f0377fd1c7e2"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "05995b86a58ee09106d8e34458a4eb7561ad5bf3e25d89f491519c18010afe8e"
+hash = "b0d63fd9523c7044b038441111484295106c10640a6484fc587f318150d58923"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "d49f83a16866886af12714660a593089291540e94aa81db2c5f849790aa0b0a8"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "189889bfa0e37af403251ea1c36086f697d04aaad0068aac7de6e5865beb9aa9"
+hash = "de1249e0d68dbc6f989a8bd5e7550003858b1eff9e22aabc018a0b830eca48fd"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "dd80bf6e3f5554eefa5dcaec292e9c33b309d714ea7939bb8128367fe19e7a4b"
+hash = "3b25ea7af38b76225cc8ac78944a998e457cab2b56260d801fdb71efef62dfdd"
 metafile = true
 
 [[files]]
