@@ -6,7 +6,7 @@ hash = "b31b1087caecad27e251314d28a87c8b728a8d5ecd49e36d8f94ebeedf2715fd"
 
 [[files]]
 file = "config/defaultoptions/extra/config/emotecraft.json"
-hash = "cca45870298122e54d988d7351a6c29f5b1df7ac1fc50062685d0934d6a9b64a"
+hash = "b25bac36d86f91830fe9000cfeb594b37e767bb2a623b3ca53f76e36328e88ea"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fallingtree.json"
@@ -22,15 +22,207 @@ hash = "1ff30421c28994ded3602d138184e3798c94ff08e13ffca59a87a901c89015cc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d2f6fa556907338c3973f10cd3ce75b409597f0a9ec77dd334629f5232379e9b"
+hash = "7b0307718e5a3b5dac67b6db91f09dec3933876ece239f075f163d05af8d87c8"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5f70097ac1a9b624b1abfa9defab96e4b75723a3e309e45f29261c8a3634e43f"
+hash = "7da8082bc26faf0e9a28192e92dddcb6d10e6e1e8fbb218cb6e315dd772eed4a"
+
+[[files]]
+file = "emotes/Basket Head.emotecraft"
+hash = "1ac042a735d07dd5fcc6e494db8fdd21a129746e9bb748b40f13f82decb90725"
+
+[[files]]
+file = "emotes/Belly Lying.emotecraft"
+hash = "3726377c9ca8585a9905f914fa5750a3d81c6a0a328c4a471357dc198ed4ee6d"
+
+[[files]]
+file = "emotes/Blending In.emotecraft"
+hash = "97b2d2ee0793db8f3c9fa68cb3566cde1966bac7903d4665e1615293493e4171"
+
+[[files]]
+file = "emotes/Cheer.emotecraft"
+hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
+
+[[files]]
+file = "emotes/Drinking liquid.emotecraft"
+hash = "1c545abb34c17cd0ac897101ce267ea37b58b90c23c147effc8a7a4a64f5b5a9"
+
+[[files]]
+file = "emotes/Drunk fall.emotecraft"
+hash = "742434b1063053d72baa229ba1c3ad7e4f4cb32685ef0bca7682fbeff2129f0a"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Floss.emotecraft"
+hash = "2e48df2af9c398822e3ad145dbae395ecf898455bbdace40e08bbec55f103ae4"
+
+[[files]]
+file = "emotes/Front Lying.emotecraft"
+hash = "3b63b69587fe0c959b9fffec6460389a8bea287b76d3deb803f2d69b206b94ed"
+
+[[files]]
+file = "emotes/Front flip.emotecraft"
+hash = "28e9f5654d305b4d5c5f350f7c57c4f487f6e7a56ce8b38b420e88ee65886f59"
+
+[[files]]
+file = "emotes/Gagnam style.emotecraft"
+hash = "1a0ef18252009ff5b2e41543bcc1a1b1c086a7f690c9b0d20f891992f09cebe4"
+
+[[files]]
+file = "emotes/Gets down.emotecraft"
+hash = "787f08d2d676b5ddbabdc8cfb72f59e9ea765192641739bc738a825504471083"
+
+[[files]]
+file = "emotes/Hands up.emotecraft"
+hash = "910a155b42f20262c0fb32dd09e1db1bb2c0991cc73e1e76e4281ec79ec76318"
+
+[[files]]
+file = "emotes/Hug.emotecraft"
+hash = "74d014ecfdd67f41e7ca41b7daaed92a20bcbd87c62040c9caf699fbda82d557"
+
+[[files]]
+file = "emotes/Jackson.emotecraft"
+hash = "a6bf83666c287d23c795d718bfd78cbb6f4725fee1de678c5908947e2ed357ef"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Kneeling.emotecraft"
+hash = "d3b20bb17489e4e8a192ee0993e2173660bd523eccfdfe20c1a79901d692b3bb"
+
+[[files]]
+file = "emotes/Lay on back.emotecraft"
+hash = "bfbd9b87c4ac3227c771eb19d34e72cce916eba7ed447d8ca0aed0f14b616218"
+
+[[files]]
+file = "emotes/Lay while hurt.emotecraft"
+hash = "b58300cb49edf760584e11e8fdbf6ab5d6dbe41211dfcd334d8ab80e8c8bb061"
+
+[[files]]
+file = "emotes/Melon (crappy).emotecraft"
+hash = "fbbff26f3c14260c81164df9dd5ebd6eab73e972e4021b3c55e54746f3d12abe"
+
+[[files]]
+file = "emotes/Omni man.emotecraft"
+hash = "bdf3271b7eebf91f000c6c05ec1db4b376e0aecae9e663e14273942c62e0e6b1"
+
+[[files]]
+file = "emotes/Pillar man.emotecraft"
+hash = "4a05841798d4fd8c79f10d1f068b28c3269715cee1ab9c8006a32b239704c52e"
+
+[[files]]
+file = "emotes/Praise the sun.emotecraft"
+hash = "dc4d632938356b7a5ecf31e05ea3392c9bd660b7cee05eb982872c3ee1f7d5fc"
+
+[[files]]
+file = "emotes/Proxima Creature.emotecraft"
+hash = "083aa2db244da11c34bb5fdb362f9ab499839647b281a37056b4e1dad49f3614"
+
+[[files]]
+file = "emotes/Punch.emotecraft"
+hash = "dfef63145fdc37d7f6c9ed117ab33892701e3d7e206b35e70e57a480d4970de0"
+
+[[files]]
+file = "emotes/Salute.emotecraft"
+hash = "10460f6865e405ea30cf05551144293b7d5b6bf9ba38596237a9b4cec7758fc3"
+
+[[files]]
+file = "emotes/Shrug.emotecraft"
+hash = "75bcc6b28093506cf3201237798a2b5e1facdcb875790a3efadf680df75b4c27"
 
 [[files]]
 file = "emotes/Sit.emotecraft"
 hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
+file = "emotes/T-Pose.emotecraft"
+hash = "f2e97666e0c3452b2b32cc2fffea7fa2a868899b323ccc6f60f49d817cc1c1b5"
+
+[[files]]
+file = "emotes/The Luddy.emotecraft"
+hash = "5b0ad6df6aee1f451cc60492fafd6d88932cbdd65435737a973b0921d2ab1fda"
+
+[[files]]
+file = "emotes/Twerk.emotecraft"
+hash = "bc4500b91c27489300db6fd4447bd8057ef4054633873bd264b03010d09c5f95"
+
+[[files]]
+file = "emotes/Villager.emotecraft"
+hash = "52af869023d64adb680100b3d6d762d0a245766ff49b00ff5b63b0f78ba20b67"
+
+[[files]]
+file = "emotes/Walking.emotecraft"
+hash = "71fa6ddec0d1e35ecea7d7c45b061dafed8f07b72b68e3a32f97f53a704df023"
+
+[[files]]
+file = "emotes/blow kiss.emotecraft"
+hash = "9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c"
+
+[[files]]
+file = "emotes/cool sit.emotecraft"
+hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/die and respawn.emotecraft"
+hash = "ac7a4c9523705ef271f436f5e13ebd5045558142c0864bc946c4448d4e3cb0c7"
+
+[[files]]
+file = "emotes/into pieces.emotecraft"
+hash = "00fd594f9175762c71cfda3f9bac3bef15057d466760a4790c343eda0385dc2c"
+
+[[files]]
+file = "emotes/lean.emotecraft"
+hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+
+[[files]]
+file = "emotes/lookout.emotecraft"
+hash = "c9949de03d0f6796363e8a1dc5bb45f2a30bc69ca8856ebacc0a60cb75c10cc6"
+
+[[files]]
+file = "emotes/lying on side.emotecraft"
+hash = "1505b2e5984883b4775c4be0695fb6b41eaa265e8f6c6d589d1904b18d5b97e4"
+
+[[files]]
+file = "emotes/naruto run.emotecraft"
+hash = "314d33634b97c7611928cf451cb9b4efe21da8e13b0e70e1df72ea28d3d14b5a"
+
+[[files]]
+file = "emotes/piglin victory dance.emotecraft"
+hash = "018bb8303d9de9ebf12b45bdcda2784b9f57b9b9dd530e5cab548b7c098b0dbd"
+
+[[files]]
+file = "emotes/smoking loop.emotecraft"
+hash = "2d7e47b278c6eb1fcfab1258513a5165b8656079db1ce2a3d0047e51372a5c67"
+
+[[files]]
+file = "emotes/smoking.emotecraft"
+hash = "42fa328cfb19e165f01336e3ca2b6cd651a0f9f0e61f687d7d7a170f145b93c3"
+
+[[files]]
+file = "emotes/sword pose.emotecraft"
+hash = "b558a698cf934d153f584765d9cec04d617cd720c2b0a329b6c0041e79f518b2"
+
+[[files]]
+file = "emotes/tpose revive loop.emotecraft"
+hash = "434fca925a41fdb20478dae9ac47575a57abdce72b7f78a3f64357a09f74ab28"
+
+[[files]]
+file = "emotes/tpose revive.emotecraft"
+hash = "ca85ea09afe227f2a5fc0078f2c8e3236be0e246cadbbaa98612bf4d9fa7a5f6"
+
+[[files]]
+file = "emotes/§1§l§o[§f§l§on7+§1§l§o] §eJesus+.emotecraft"
+hash = "b4274510339b21e724260aa05e1b4db6d21403a99229513614084d16bc4bd7b5"
+
+[[files]]
+file = "emotes/Мышка-сосиска.emotecraft"
+hash = "c304729b6fab0f12d803d2dd6571b179c73158d0f217513d9792c6bf4eecd9be"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -174,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "d844d263bb946a34d1bb37a05da36f439516deb1de47a80556045d45f53d94fe"
+hash = "91b63f3fb9d5b1d0ae8d162bf6e4aa76faff61f7af94c1676bd05ebf4208fa5b"
 metafile = true
 
 [[files]]
@@ -204,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "989d0023b26de30e7b8a805d3c8706d326578f7ed8a31f838bf1a8ac027a6b55"
+hash = "979632aae1dad7f82a5a1a34ea1c5844f9584129d4fa5677c28b32cb319b6fd7"
 metafile = true
 
 [[files]]
@@ -443,6 +635,11 @@ hash = "7fbe3225c134e823a07f3aecedace39fe866f327671ecca928f134399b94008d"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+metafile = true
+
+[[files]]
 file = "mods/living-things.pw.toml"
 hash = "afd2f77c1c4750f68f0745e156f6b272d112ce865bdf91490eb9bc8f7c11769e"
 metafile = true
@@ -674,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "3b25ea7af38b76225cc8ac78944a998e457cab2b56260d801fdb71efef62dfdd"
+hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
 metafile = true
 
 [[files]]
