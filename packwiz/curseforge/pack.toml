@@ -1,13 +1,13 @@
 name = "MouCraft"
 author = "416C6578"
-version = "0.4.0-beta"
+version = "0.4.0"
 description = "MouCraft is a survival-RP modpack for Minecraft 1.21.1 using NeoForge."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d3b8e1a97e8dbb842c795552bb09f24a1c75b320711a7fc355c66d9d01f80f11"
+hash = "6c78615cfbd29083cc4ff8ee5efef601a04481724811f997ef69f51f7ededf6d"
 
 [versions]
 minecraft = "1.21.1"
