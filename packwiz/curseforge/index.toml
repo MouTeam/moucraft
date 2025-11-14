@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "742108414562eb148ff95c653f15731fe793a58e50ae2747017da0cf20c53982"
+hash = "fd4a951f1121972dabbcc7d9f9034b131bb77d815129a125106c1abfa3995b16"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "6bb956a21d28d8eac266c0f145702fc5e7c8384057952a5d57dda77b83a38d52"
+hash = "b50c582b469e6a8a6d927999b47cb54990454221a78107904b3fb65f9517ee95"
 metafile = true
 
 [[files]]
