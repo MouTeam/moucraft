@@ -29,14 +29,39 @@ jobs:
             | jq -r '.[] | select(.name | endswith(".mrpack")) | .browser_download_url')
           echo "ASSET_URL=$ASSET_URL" >> $GITHUB_ENV
 
+      - name: Get CurseForge client asset URL
+        id: get_curseforge_asset
+        run: |
+          ASSET_URL=$(echo '${{ toJson(github.event.release.assets) }}' \
+            | jq -r '.[] | select(.name | test("client.*\\.zip$")) | .browser_download_url')
+          echo "CURSEFORGE_ASSET_URL=$ASSET_URL" >> $GITHUB_ENV
+
+      - name: Download Modrinth asset
+        run: |
+          curl -L -O "${{ env.ASSET_URL }}"
+
+      - name: Download CurseForge client asset
+        run: |
+          curl -L -O "${{ env.CURSEFORGE_ASSET_URL }}"
+
       - name: Publish Modrinth pack
-        uses: cloudnode-pro/modrinth-publish@v2
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
-          token: ${{ secrets.MODRINTH_TOKEN }}
-          project: SYLaBkiA
-          name: ${{ github.event.release.name }}
-          version: ${{ github.event.release.tag_name }}
-          changelog: ${{ github.event.release.body }}
-          loaders: 'neoforge'
-          game-versions: '1.21.1'
-          files: ${{ env.ASSET_URL }}
+          modrinth-id: 'SYLaBkiA'
+          modrinth-token: "${{ secrets.MODRINTH_TOKEN }}"
+          loaders: neoforge
+          name: "${{ github.event.release.name }}"
+          version: "${{ github.event.release.tag_name }}"
+          game-versions: 1.21.1
+          files: MouCraft-modrinth-*.mrpack
+
+      - name: Publish CurseForge pack
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 1283043
+          curseforge-token: "${{ secrets.CURSEFORGE_TOKEN }}"
+          loaders: neoforge
+          name: "${{ github.event.release.name }}"
+          version: "${{ github.event.release.tag_name }}"
+          game-versions: 1.21.1
+          files: MouCraft-curseforge-client-*.zip
