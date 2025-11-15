@@ -50,6 +50,8 @@ jobs:
           modrinth-id: SYLaBkiA
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           loaders: neoforge
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
           game-version-filter: 1.21.1
           files: MouCraft-modrinth-*.mrpack
 
@@ -59,5 +61,7 @@ jobs:
           curseforge-id: 1283043
           curseforge-token: ${{ secrets.CF_TOKEN }}
           loaders: neoforge
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
           game-versions: 1.21.1
           files: MouCraft-curseforge-client-*.zip
