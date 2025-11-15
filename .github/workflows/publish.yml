@@ -36,16 +36,24 @@ jobs:
             | jq -r '.[] | select(.name | test("client.*\\.zip$")) | .browser_download_url')
           echo "CURSEFORGE_ASSET_URL=$ASSET_URL" >> $GITHUB_ENV
 
+      - name: Download Modrinth asset
+        run: |
+          curl -L -O "${{ env.ASSET_URL }}"
+
+      - name: Download CurseForge client asset
+        run: |
+          curl -L -O "${{ env.CURSEFORGE_ASSET_URL }}"
+
       - name: Publish Modrinth pack
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: SYLaBkiA
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: ${{ env.ASSET_URL }}
+          files: MouCraft-modrinth-*.mrpack
 
       - name: Publish CurseForge pack
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 1283043
           curseforge-token: ${{ secrets.CF_TOKEN }}
-          files: ${{ env.CURSEFORGE_ASSET_URL }}
+          files: MouCraft-curseforge-client-*.zip
