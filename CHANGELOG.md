@@ -1,3 +1,9 @@
+## [0.6.0-beta.1](https://github.com/MouTeam/moucraft/compare/v0.5.0...v0.6.0-beta.1) (2025-11-15)
+
+### ✨ Features
+
+* **mods:** update Just Enough Items (JEI) ([9a7b377](https://github.com/MouTeam/moucraft/commit/9a7b3771c9f8c9ea35e4a8af4c6d70c5bafebd8b))
+
 ## [0.5.0](https://github.com/MouTeam/moucraft/compare/v0.4.0...v0.5.0) (2025-11-15)
 
 ### 🔧 Chores
