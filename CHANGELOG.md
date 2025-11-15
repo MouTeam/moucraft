@@ -1,3 +1,9 @@
+## [0.6.0-beta.2](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.1...v0.6.0-beta.2) (2025-11-15)
+
+### ✨ Features
+
+* **curseforge:** publish CurseForge pack ([8ffe9f1](https://github.com/MouTeam/moucraft/commit/8ffe9f14d318e46bcffbac6c752c674a91f7c5d5))
+
 ## [0.5.0](https://github.com/MouTeam/moucraft/compare/v0.4.0...v0.5.0) (2025-11-15)
 
 ### 🔧 Chores
