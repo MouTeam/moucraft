@@ -1,0 +1,72 @@
+name: Build
+
+on:
+  workflow_call:
+    outputs:
+      curseforge_server:
+        description: "Chemin du pack CurseForge server"
+        value: ${{ jobs.build.outputs.curseforge_server }}
+      curseforge_client:
+        description: "Chemin du pack CurseForge client"
+        value: ${{ jobs.build.outputs.curseforge_client }}
+      modrinth_pack:
+        description: "Chemin du pack Modrinth"
+        value: ${{ jobs.build.outputs.modrinth_pack }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    container:
+      image: ghcr.io/dalbitresb12/packwiz:2025-11-02
+
+    outputs:
+      curseforge_server: ${{ steps.paths.outputs.curseforge_server }}
+      curseforge_client: ${{ steps.paths.outputs.curseforge_client }}
+      modrinth_pack: ${{ steps.paths.outputs.modrinth_pack }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Prepare build directories
+        run: mkdir -p build/curseforge build/modrinth
+
+      # CurseForge server
+      - name: Build CurseForge server pack
+        working-directory: packwiz/curseforge
+        run: |
+          packwiz curseforge export \
+            --side server \
+            --output ../../build/curseforge/MouCraft-curseforge-server.zip
+
+      # CurseForge client
+      - name: Build CurseForge client pack
+        working-directory: packwiz/curseforge
+        run: |
+          packwiz curseforge export \
+            --side client \
+            --output ../../build/curseforge/MouCraft-curseforge-client.zip
+
+      # Modrinth pack
+      - name: Build Modrinth pack
+        working-directory: packwiz/modrinth
+        run: |
+          packwiz modrinth export \
+            --output ../../build/modrinth/MouCraft-modrinth.mrpack
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v5
+        with:
+          name: build-pack
+          path: |
+            build/curseforge/MouCraft-curseforge-server.zip
+            build/curseforge/MouCraft-curseforge-client.zip
+            build/modrinth/MouCraft-modrinth.mrpack
+
+      - name: Export paths
+        id: paths
+        run: |
+          echo "curseforge_server=build/curseforge/MouCraft-curseforge-server.zip" >> "$GITHUB_OUTPUT"
+          echo "curseforge_client=build/curseforge/MouCraft-curseforge-client.zip" >> "$GITHUB_OUTPUT"
+          echo "modrinth_pack=build/modrinth/MouCraft-modrinth.mrpack" >> "$GITHUB_OUTPUT"

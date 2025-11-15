@@ -1,0 +1,42 @@
+name: Publish
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  modrinth:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Debug release info
+        run: |
+          echo "Release tag: ${{ github.event.release.tag_name }}"
+          echo "Release name: ${{ github.event.release.name }}"
+          echo "Release body: ${{ github.event.release.body }}"
+          echo "Release draft: ${{ github.event.release.draft }}"
+          echo "Release prerelease: ${{ github.event.release.prerelease }}"
+          echo "Assets:"
+          echo '${{ toJson(github.event.release.assets) }}' | jq
+
+      - name: Get Modrinth asset URL
+        id: get_asset
+        run: |
+          ASSET_URL=$(echo '${{ toJson(github.event.release.assets) }}' \
+            | jq -r '.[] | select(.name | endswith(".mrpack")) | .browser_download_url')
+          echo "ASSET_URL=$ASSET_URL" >> $GITHUB_ENV
+
+      - name: Publish Modrinth pack
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: SYLaBkiA
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
+          changelog: ${{ github.event.release.body }}
+          loaders: 'neoforge'
+          game-versions: '1.21.1'
+          files: ${{ env.ASSET_URL }}
