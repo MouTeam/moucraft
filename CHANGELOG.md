@@ -1,3 +1,9 @@
+## [0.6.0-beta.7](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.6...v0.6.0-beta.7) (2025-11-15)
+
+### 🐛 Bug Fixes
+
+* **publish:** curseforge ([9cd18e0](https://github.com/MouTeam/moucraft/commit/9cd18e0489e80826b5cc06298ac85b706a18cec0))
+
 ## [0.6.0-beta.6](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.5...v0.6.0-beta.6) (2025-11-15)
 
 ### 🐛 Bug Fixes
