@@ -1,3 +1,9 @@
+## [0.6.0-beta.3](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.2...v0.6.0-beta.3) (2025-11-15)
+
+### 🐛 Bug Fixes
+
+* **workflow:** fix publish steps ([0477195](https://github.com/MouTeam/moucraft/commit/04771954b175f3007b320004c15b157709c61326))
+
 ## [0.6.0-beta.2](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.1...v0.6.0-beta.2) (2025-11-15)
 
 ### ✨ Features
