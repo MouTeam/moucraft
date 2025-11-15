@@ -1,3 +1,9 @@
+## [0.6.0-beta.6](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.5...v0.6.0-beta.6) (2025-11-15)
+
+### 🐛 Bug Fixes
+
+* game-versions ([c84e445](https://github.com/MouTeam/moucraft/commit/c84e44533262da2f53f1df1a944a2005c40818d2))
+
 ## [0.6.0-beta.5](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.4...v0.6.0-beta.5) (2025-11-15)
 
 ### 🐛 Bug Fixes
