@@ -1,3 +1,9 @@
+## [0.6.0-beta.5](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.4...v0.6.0-beta.5) (2025-11-15)
+
+### 🐛 Bug Fixes
+
+* add name and version ([d9496a2](https://github.com/MouTeam/moucraft/commit/d9496a2baf7176124c71d0b928ac5d6b7078bc08))
+
 ## [0.6.0-beta.4](https://github.com/MouTeam/moucraft/compare/v0.6.0-beta.3...v0.6.0-beta.4) (2025-11-15)
 
 ### 🐛 Bug Fixes
