@@ -49,6 +49,8 @@ jobs:
         with:
           modrinth-id: SYLaBkiA
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          loaders: neoforge
+          game-version-filter: 1.21.1
           files: MouCraft-modrinth-*.mrpack
 
       - name: Publish CurseForge pack
@@ -56,4 +58,6 @@ jobs:
         with:
           curseforge-id: 1283043
           curseforge-token: ${{ secrets.CF_TOKEN }}
+          loaders: neoforge
+          game-versions: 1.21.1
           files: MouCraft-curseforge-client-*.zip
